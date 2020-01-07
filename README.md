@@ -19,3 +19,5 @@ It includes following pages:
 Components:
 - Header
 - Footer
+
+More about GatsbyJS @ <a href="https://gatsbyjs.org/" target="_blank">https://gatsbyjs.org/</a>
